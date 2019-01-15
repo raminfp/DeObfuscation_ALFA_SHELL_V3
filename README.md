@@ -125,5 +125,5 @@ if(!$split_keys("func_5")) {
 7 - Again we run `php decode_stage_2.php > final_alfashell.php` seccessfully decode ALFA SHELL :),
 
 
-Thanks,
+Thanks, <br />
 Ramin - kernel security engineering 
