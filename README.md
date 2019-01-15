@@ -6,13 +6,13 @@
 
 2 - Open file `alfav3-encoded.php` we will see `$MuSoTSurZq='e'.'v'.'al'.'';`  <br />
 
-Link Image 1 <br />
+![Image 1](https://github.com/raminfp/DeObfuscation_ALFA_SHELL_V3/blob/master/1.png) <br />
 
 ### Start Stage 1
 
 3 - Replace`$MuSoTSurZq='e'.'v'.'al'.'';` to `$MuSoTSurZq='echo';` <br /> 
 
-Link Image 2 <br />
+![Image 2](https://github.com/raminfp/DeObfuscation_ALFA_SHELL_V3/blob/master/2.png) <br />
 
 4 - Now we should run `php alfav3-encoded.php > decode_stage_1.php` <br />
 
