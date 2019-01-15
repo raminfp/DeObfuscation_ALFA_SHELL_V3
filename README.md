@@ -21,7 +21,7 @@
 
 ``` /* You're killing me again 🎧 Am I still in your head ? 🎧 You used to light me up 🎧 Now you shut me down -- Solevisible */ ```
 
-This message of music `Archive - Again ` Music linke : https://www.youtube.com/watch?reload=9&v=NF52fcoIqg4
+This message of music `Archive - Again ` Music video of youtube : https://www.youtube.com/watch?reload=9&v=NF52fcoIqg4
 
 ### Start Stage 2
 
