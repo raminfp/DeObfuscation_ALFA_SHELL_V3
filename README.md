@@ -124,6 +124,9 @@ if(!$split_keys("func_5")) {
 
 7 - Again we run `php decode_stage_2.php > final_alfashell.php` seccessfully decode ALFA SHELL :),
 
+###  Decode ALFA SHELL V3:
+
+![Image 3](https://github.com/raminfp/DeObfuscation_ALFA_SHELL_V3/blob/master/3.png)
 
 Thanks, <br />
 Ramin - kernel security engineering 
